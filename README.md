@@ -10,13 +10,13 @@ Astro Academy is a top-down shooter where the player must face endless waves of 
 
 
 ### Getting Started🏃‍♀
-To get started with [Astro Academy](https://goodwingames.itch.io/testwebglbuild), follow these steps:  
+To get started with the game on the website made by Garrett Goodwin here [Astro Academy](https://goodwingames.itch.io/testwebglbuild), follow these steps:  
 1. Clone or download the repository.  
 2. Open the project in Unity.  
 3. Navigate to the Assets/Scenes folder and open the Main Menu scene.  
 4. Press the play button to start the game in the Unity Editor.  
 
-Alternatively, you check out the web game on Nasa's website [here](https://goodwingames.itch.io/testwebglbuild) to play without needing Unity.  
+Alternatively, you check out the web game on Nasa's website [here](https://missiontopsyche.github.io/tungsten_12g_web_game/) to play without needing Unity.  
 
 ### Acknowledgements🔭
 We would like to acknowledge NASA for their unwavering commitment to space exploration and the groundbreaking Psyche Mission, which served as the wellspring of inspiration for this endeavor. Their dedication to expanding our knowledge of the cosmos has been a guiding light throughout this project.
